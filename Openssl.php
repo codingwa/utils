@@ -2,7 +2,7 @@
 
 /**
  * Created by openssl.
- * Author: "zhoukang@simleware.com.cn"
+ * Author: "626895154@qq.com"
  * Date: 2015/8/19
  * Time: 14:21
  */
@@ -110,7 +110,7 @@ class Openssl
     }
 
     /**
-     * 签名数据
+     * 鏁版嵁绛惧悕
      * @param $data
      * @return null|string
      */
@@ -128,7 +128,7 @@ class Openssl
     }
 
     /**
-     * 验证签名
+     * 楠岀
      * @param $data
      * @param $signature
      * @return bool|null|string
